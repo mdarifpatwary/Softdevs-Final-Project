@@ -1,0 +1,573 @@
+/*==============================================================*/
+/*=========================================================*/
+/*// Large devices (desktops, 992px and up)*/
+@media (max-width: 1200px) {
+
+}
+/*// Large devices (desktops, 992px and up)*/
+/*=========================================================*/
+/*==============================================================*/
+
+
+
+
+
+/*==============================================================*/
+/*=========================================================*/
+/*// Medium devices (tablets, 768px and up)*/
+@media (max-width: 992px) {
+	.lorem{
+		display: none;
+	}
+/*service area*/
+	.service_offer{
+		padding: 20px 0;
+	}
+	.service_offer .ser_con{
+		margin-bottom: 20px;
+	}
+	.ser_con h1{
+		font-size: 35px;
+		margin-bottom: 30px;
+	}
+	.service_offer .pro_area h1{
+		font-size: 25PX;
+	}
+	.service_offer .pro_area p{
+		font-size: 15px;
+		margin-top: 15px;
+		margin-bottom: 30px;
+		padding: 0px 15px;
+	}
+	.pro_icon i{
+		font-size: 40px;
+	}
+	.progress{
+		height: 25PX;
+		width: 420PX;
+		margin-bottom: 25PX;
+	}
+	.service_offer .pro_con h2{
+		font-size: 20px;
+	}
+	.service_offer .pro_con p{
+		font-size: 15px;
+		margin-top: 2px;
+		margin-bottom: 5px;
+	}
+/*service area end*/
+/*portfolio area*/
+	.port_content h2{
+		padding-top: 40px;
+		font-size: 40px;
+	}
+	.port_content p{
+		font-size: 25px;
+		padding: 20px 160px;
+	}
+	.ang{
+		font-size: 17px;
+	}
+	.angkor{
+		font-size: 17px;
+	}
+	.overpakna{
+		right: 15px;
+		top: 0;
+	}
+	.picture:hover .overpakna{
+		height: 87%;
+		width: 90.5%;
+	}
+	.align h2{
+		font-size: 20px;
+	}
+	.align p{
+		font-size: 15px;
+	}
+	.align i{
+		font-size: 30px;
+	}
+/*portfolio area*/
+}
+/*// Medium devices (tablets, 768px and up)*/
+/*=========================================================*/
+/*==============================================================*/
+
+
+
+
+
+
+/*=========================================================*/
+/*=========================================================*/
+/*// Small devices (landscape phones, 576px and up)*/
+@media (max-width: 768px) {
+/*header area*/
+	.lorem{
+		display: none;
+	}
+/*about area*/
+	.about_area .about_content h2{
+		font-size: 40px;
+	}
+	.about_area .about_content h3{
+		font-size: 27px;
+		margin-top: 5px;
+	}
+	.about_area .about_content span{
+		font-size: 25px;
+	}
+	.about_area .about_content p{
+		margin-top: 10px;
+		font-size: 14.5px;
+		text-align: justify;
+	}
+	.btn{
+		padding: 0px;
+	}
+	.about_area .margin .btn a{
+		padding: 6px 11px;
+		font-size: 15px;
+		margin-top: 10px;
+		padding-bottom: 11px;
+		margin-bottom: 10px;
+	}
+	.about_area .margin{
+		padding-top: 60px;
+		padding-bottom: 20px;
+	}
+	/*about area*/
+/*service area start*/
+
+	.service_offer{
+		padding: 20px 0;
+	}
+	.service_offer .ser_con{
+		margin-bottom: 20px;
+	}
+	.ser_con h1{
+		font-size: 35px;
+		margin-bottom: 30px;
+	}
+	.service_offer .pro_area h1{
+		font-size: 25PX;
+	}
+	.service_offer .pro_area p{
+		font-size: 15px;
+		margin-top: 15px;
+		margin-bottom: 30px;
+		padding: 0px 15px;
+	}
+	.pro_icon i{
+		font-size: 40px;
+	}
+	.progress{
+		height: 35PX;
+		width: 315PX;
+		margin-bottom: 25PX;
+	}
+	.service_offer .pro_con h2{
+		font-size: 20px;
+	}
+	.service_offer .pro_con p{
+		font-size: 15px;
+		margin-top: 2px;
+		margin-bottom: 5px;
+	}
+/*service area end*/
+/*portfolio area*/
+	.port_content h2{
+		padding-top: 40px;
+		font-size: 40px;
+	}
+	.port_content p{
+		font-size: 25px;
+		padding: 20px 90px;
+	}
+	.ang{
+		font-size: 17px;
+	}
+	.angkor{
+		font-size: 17px;
+	}
+	.overpakna{
+		right: 15px;
+		top: 0;
+	}
+	.picture:hover .overpakna{
+		height: 82%;
+		width: 88.5%;
+	}
+	.align h2{
+		font-size: 15px;
+		font-weight: 500;
+	}
+	.align p{
+
+		font-size: 10px;
+	}
+	.align i{
+		font-size: 15px;
+	}
+/*portfolio area*/
+	
+}
+/*// Small devices (landscape phones, 576px and up)*/
+/*=========================================================*/
+/*=========================================================*/
+
+
+
+
+
+/*=========================================================*/
+/*=========================================================*/
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 576px) {
+	.navbar_area{
+		height: 600px;
+	}
+	.lorem{
+		display: none;
+	}
+	.navbar_area .navbar-nav .nav-link{
+		text-align: center;
+	}
+	.nav_content h3{
+		margin-top: 70px;
+		font-size: 20px; 
+	}
+	.nav_content span{
+		font-size: 20px; 
+	}
+	.nav_content h1{
+		font-size: 35px;
+		font-weight: 600;
+	}
+	.nav_content h5{
+		font-size: 14px;
+		margin-top: 10px;
+	}
+	.nab-btn a{
+		padding: 4px 8px;	
+		margin-top: 40px;
+		font-size: 10px;
+	}
+	.arrow_down{
+		bottom: -13%;
+	}
+	
+/*about area*/
+	.about_area .about_content h2{
+		font-size: 25px;
+	}
+	.about_area .about_content h3{
+		font-size: 15px;
+		margin-top: 5px;
+	}
+	.about_area .about_content span{
+		font-size: 15px;
+	}
+	.about_area .about_content p{
+		margin-top: 8px;
+		font-size: 10.5px;
+	}
+	.btn{
+		padding:0px;
+	}
+	.about_area .margin .btn a{
+		padding: 5px 10px;
+		font-size: 9px;
+		border-radius: 25px;
+		margin-top: 10px;
+		margin-right: 10px;
+	}
+	.about_area .margin{
+		padding-top: 30px;
+		padding-bottom: 20px;
+	}
+/*service area start*/
+	.service_area .service h2{
+		font-size: 25px;
+	}
+	.service_area .service p{
+		font-size: 15px;
+		margin-top: 5px;
+		margin-bottom: 25px;
+		padding: 0px 15px;
+	}
+	.align_item i{
+		font-size: 35px;
+		margin-top: 0px;
+	}
+	.align_item h2{
+		font-size: 15px;
+		margin-top: 20px;
+		
+	}
+	.align_item p{
+		font-size: 10px;
+		line-height: 1.6;
+		margin-top: 5px;
+		margin-bottom: 0px;
+		padding: 0px 26px;
+	}
+	.mt{
+		margin-top: 10px;
+		padding-bottom: 10px;
+	}
+/*skill area*/
+	.service_offer{
+		padding: 20px 0;
+	}
+	.service_offer .ser_con{
+		margin-bottom: 20px;
+	}
+	.ser_con h1{
+		font-size: 35px;
+	}
+	.service_offer .pro_area h1{
+		font-size: 15PX;
+	}
+	.service_offer .pro_area p{
+		font-size: 15px;
+		margin-top: 15px;
+		margin-bottom: 30px;
+		padding: 0px 15px;
+	}
+	.pro_icon i{
+		font-size: 25px;
+	}
+	.progress{
+		height: 15PX;
+		width: 250PX;
+		margin-bottom: 12PX;
+	}
+	.service_offer .pro_con h2{
+		font-size: 13px;
+	}
+	.service_offer .pro_con p{
+		font-size: 8px;
+		margin-top: 2px;
+		margin-bottom: 5px;
+	}
+/*service area end*/
+	.port_content h2{
+		padding-top: 35px;
+		font-size: 30px;
+	}
+	.port_content p{
+		font-size: 18px;
+		padding: 20px 30px;
+	}
+	.ang{
+		padding: 2px 10px;
+		font-size: 11px;
+	}
+	.angkor{
+		padding: 2px 10px;
+		font-size: 11px;
+	}
+	.portfolio_area .button{
+		padding-bottom: 30px;
+	}
+/*work*/
+	.picture{
+		width: 100%;
+		position: relative;
+
+	}
+	.picture img{
+		width: 100%;
+		height: 100%;
+	}
+	.mango{
+		margin-left: 0px;
+		padding-bottom: 30px;
+	}
+	.overpakna{
+		right: 14px;
+		top: 0;
+	}
+	.picture:hover .overpakna{
+		height: 78%;
+		width: 84.5%;
+	}
+	
+	.align h2{
+		font-size: 15px;
+		font-weight: 500;
+	}
+	.align p{
+
+		font-size: 10px;
+	}
+	.align i{
+		font-size: 15px;
+	}
+}
+/*// Extra small devices (portrait phones, less than 576px)*/
+/*=========================================================*/
+/*==============================================================*/
+
+
+
+
+/*==============================================================*/
+/*=========================================================*/
+/*// Extra Extra small devices (portrait phones, less than 320px)*/
+@media (max-width: 320px) {
+
+/*top social area start*/
+	span{
+		color: #fff;
+		font-size: 10px;
+	}
+	.tsociali a{
+		margin-left: 10px;
+		font-size: 13px;
+	}
+
+/*top social area end*/
+	.arrow_down span{
+		display: block;
+		width: 15px;
+		height: 15px;
+		border-bottom: 1px solid #fff;
+		border-right: 1px solid #fff;
+		transform: rotate(45deg);
+		margin: -8px;
+		animation: animate 2s infinite;
+	}
+/*about area*/
+	.about_area .about_content h2{
+		font-size: 30px;
+	}
+	.about_area .about_content h3{
+		font-size: 20px;
+		margin-top: 5px;
+	}
+	.about_area .about_content span{
+		font-size: 20px;
+	}
+	.about_area .about_content p{
+		margin-top: 10px;
+		font-size: 12.5px;
+		text-align: justify;
+	}
+	.btn{
+		padding:0px;
+	}
+	.about_area .margin .btn a{
+		padding: 5px 10px;
+		font-size: 10px;
+		border-radius: 25px;
+		margin-top: 20px;
+		margin-right: 10px;
+	}
+	.about_area .margin{
+		padding-top: 30px;
+		padding-bottom: 20px;
+	}
+/*service area start*/
+	.service_area .service h2{
+		font-size: 30px;
+	}
+	.service_area .service p{
+		font-size: 13px;
+		margin-top: 5px;
+		margin-bottom: 40px;
+		padding: 0px 5px;
+	}
+	.align_item i{
+		font-size: 35px;
+		margin-top: 0px;
+	}
+	.align_item h2{
+		font-size: 20px;
+		margin-top: 20px;
+		
+	}
+	.align_item p{
+		font-size: 15px;
+		line-height: 1.6;
+		margin-top: 5px;
+		margin-bottom: 16px;
+		padding: 0px 35px;
+	}
+	.service_offer .pro_con .h2r{
+		margin-top: 30px;
+	}
+	.service_offer .pro_con h2{
+		font-size: 18px;
+	}
+	.service_offer .pro_con p{
+		font-size: 11px;
+	}
+	.pro_icon i{
+		font-size: 35px;
+		margin-top: 18px;
+	}
+	.progress{
+		width: 290PX;
+	}
+/*portfolio area*/
+	.port_content p{
+		font-size: 15px;
+		padding: 20px 20px;
+	}
+	.ang{
+		font-size: 15px;
+	}
+	.angkor{
+		font-size: 15px;
+	}
+	.overpakna{
+		right: 14px;
+		top: 0;
+	}
+	.picture:hover .overpakna{
+		height: 64%;
+		width: 73.5%;
+	}
+	
+	.align h2{
+		font-size: 10px;
+	}
+	.align p{
+
+		font-size: 7px;
+	}
+	.align i{
+		font-size: 8px;
+	}
+/*footer area*/
+	.footer_area .f-btn{
+		padding-top: 5px;
+		padding-bottom: 5px;
+		font-size: 14px;
+	}
+
+}
+/*// Extra Extra small devices (portrait phones, less than 320px)*/
+/*=========================================================*/
+/*==============================================================*/
+
+
+
+
+
+
+
+
+
+/*==============================================================*/
+/*=========================================================*/
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
+/*==============================================================*/
+/*=========================================================*/
+/*// Extra large devices (large desktops, 1200px and up)

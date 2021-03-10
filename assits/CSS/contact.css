@@ -1,0 +1,410 @@
+
+/*owl carousel*/
+.carousel-indicators li {
+    box-sizing: content-box;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #04afe7;
+    background-clip: padding-box;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    transition: opacity .6s ease;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    border: 2px solid red;
+    box-shadow: 0 0 0 0 #fff;
+}
+.carousel-inner .carousel-item{
+	background: #000;
+}
+.carousel-inner .carousel-item img{
+	height: 80vh;
+}
+.carousel-inner .back{
+	opacity: .2;
+	width: 100%;
+}
+.banner_area .navmenu{
+	background: #000;
+}
+
+.navbar-light .navbar-nav .navbar-link {
+    color: rgb(255 255 255 / 50%);
+}
+.banner_area .navmenu ul{
+	display: flex;
+	list-style: none;
+	font-weight: 400;
+	
+}	
+.banner_area .navmenu ul li{
+	margin-right:30px;
+}
+
+.banner_area .home:hover{
+	color: #fff;
+	
+}
+.banner_area .home{
+	border-bottom: 2px solid #fff;
+}
+.banner_area .navmenu ul li:hover a{
+	color: #fff;
+	border-bottom: 2px solid #fff;
+
+}
+.banner_area .navmenu ul li a{
+	font-size: 19px;
+	color: #fff;
+	text-decoration: none;
+	transition: .5s;
+}
+.banner_area .nav_content{
+	text-align: center;
+	color: #fff;
+
+}
+.banner_area .navbar_area .logo {
+	color: #fff;
+}
+.banner_area .logo{
+	font-size: 35px;
+	float: left;
+	color: #fff;
+	padding: 0px 30px;
+	font-weight: 600;
+	margin-right: 70px;
+}
+.banner_area .navbar_area .navbar-nav .navbar-link{
+	color: #fff;
+}
+.banner_area .navbar_area .navbar-nav .navbar-link:hover{
+	color: #fff;
+	border-bottom: 2px solid #0abde3;
+}
+.banner_area .carousel-caption h3{
+	margin-top: 150px;
+	font-size: 2rem; 
+	font-weight: 500;
+	display: inline-block;
+}
+.banner_area .carousel-caption span{
+	font-size: 2rem; 
+	font-weight: 500;
+	display: inline-block;
+	color: #0abde3;
+}
+.banner_area .carousel-caption h1{
+	
+	font-size: 60px;
+	font-weight: 600;
+}
+.banner_area .carousel-caption h5{
+	font-size: 21px;
+	font-weight: 300;
+
+}
+.banner_area .nav-btn a{
+	display: inline-block;
+	padding: 5px 15px;
+	border-radius: 2.5rem;
+	border: .1rem solid #fff;
+	transition: 0.3s;
+	color: #fff;
+	margin-top: 40px;
+	margin: 25px 5px;
+	margin-bottom: 150px;
+}
+.banner_area .nav-btn a:hover{
+	color: #000!important;
+	background: #fff;
+	font-weight: bold;
+}
+.banner_area .caption h3{
+	margin-top: 150px;
+	font-size: 2rem; 
+	font-weight: 500;
+	display: inline-block;
+}
+.banner_area .caption span{
+	font-size: 2rem; 
+	font-weight: 500;
+	display: inline-block;
+	color: #0abde3;
+}
+.banner_area .caption h1{
+	
+	font-size: 60px;
+	font-weight: 600;
+}
+.banner_area .caption h5{
+	font-size: 21px;
+	font-weight: 300;
+
+}
+.banner_area .butt a{
+	display: inline-block;
+	padding: 5px 15px;
+	border-radius: 2.5rem;
+	border: .1rem solid #fff;
+	transition: 0.3s;
+	color: #fff;
+	margin-top: 40px;
+	margin: 25px 5px;
+	margin-bottom: 150px;
+}
+.banner_area .butt a:hover{
+	color: #000!important;
+	background: #fff;
+	font-weight: bold;
+}
+/*owl carousel*/
+
+
+
+
+/*mogan area start*/
+/*contact area start*/
+.mogancontact_head .contact_row{
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+.mogancontact_area{
+	background: #333333;
+	padding-left: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 5px;
+
+	 }
+.mogancontact_head{
+	background: #282828;
+	color: #fff;
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+.mogancontact_head h3{
+	margin-bottom: 30px;
+}
+.mogancontact_head a{
+	margin-bottom: 20px;
+	color: #fff;
+	display: block;
+	cursor: pointer;
+}
+.mogancontact_head h4{
+	margin-bottom: 20px;
+	font-size: 30px;
+	margin-top: 30px;
+}
+.mogancontact_head .col_icon i{
+	margin-right: 10px;
+	font-size: 20px;
+	padding: 10px;
+	border-radius: 50%;
+	cursor: pointer;
+
+}
+.mogancontact_head .col_icon i:hover{
+	background: rgba(219, 190, 177, 0.8);
+	border-radius: 50%;
+	font-size: 20px;
+	padding: 10px;
+	transition: .5s;
+}
+.mogancontact_head .mogancontact_area input{
+	width: 350px;
+	border:2px solid #666666;
+	color: #505050;
+	background: transparent;
+	padding: 10px;
+	height: 30px;
+	margin-right: 5px;
+}
+.mogancontact_head .mogancontact_area .input{
+	padding: 10px;
+}
+.mogancontact_head .mogancontact_area textarea{
+	width: 709px;
+	background: transparent;
+	height: 150px;
+	margin-top: 10px;
+	border: 2px solid #666666;
+	resize: vertical;
+	padding: 10px;
+}
+.mogancontact_head .mogancontact_area h2{
+	font-size: 25px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	
+}
+/*contact area end */
+/*mogan area end*/
+
+
+
+
+ /*arif contact area start*/
+ /*section area start*/
+.arifcontact_area{
+	padding: 100px;
+	background: #000;
+
+}
+.arifcontact_area .arifcontact_head{
+	text-align: center;
+}
+.ariffooter_contact textarea{
+	display: block;
+	margin: 15px 214px 32px;
+	width: 694px;
+	height:100px;
+	padding: 10px;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	resize: vertical;
+}
+.arifcontact_head h2{
+	color: #fff;
+	font-size: 35px;
+	font-weight: 600; 
+}
+.arifcontact_head p{
+	color: #6c757d;
+	font-size: 16px;
+	line-height: 1.8;
+	margin: 20px 0px;
+
+}
+.arifname_email input{
+	height: 35px;
+	width: 340px;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	padding: 10px;
+	margin-right: 10px;
+}
+.arifname_email input:focus{
+	outline: none;
+	border:1px solid #007bff;
+	box-shadow: 0px 0px 5px #007bff;
+	border-radius: 5px;
+}
+form textarea:focus{
+	outline: none;
+	border:1px solid #007bff;
+	box-shadow: 0px 0px 5px #007bff;
+	border-radius: 5px;
+}
+.arifname_email .input1{
+	margin-right: 30px;
+
+}
+.arifname_email{
+	
+	display: flex;
+	margin: 0px 215px;
+
+}
+
+.arifcontact_from{
+	display: flex;
+	/*justify-content: center;*/
+	
+}
+.arifcontact_from button{
+	position: relative;
+	left: 50%;
+	transform: translate(-50%);
+	background-color: #fff;
+	padding: 10px 15px;
+	border-radius: 2.5rem;
+	cursor: pointer;
+	transition: 0.3s;
+	border: .1rem solid #fff;
+	color: #000;
+	font-weight: 700;
+}
+/*section area end*/
+/*contact start*/
+.calling{
+	display: flex;
+}
+.call{
+	border-right: 2px solid grey;
+}
+.call3{
+	width: 33.33%;
+	text-align: center;
+	padding: 30px 25px;
+	background: #0a0000;
+
+}
+.call3 i{
+	font-size: 40px;
+	color: #fff;
+	line-height: 1.8;
+}
+.call3 h3{
+	color: #fff;
+	font-size: 20px;
+	font-weight: 600;
+	margin-top: 0px;
+	line-height: 1.8;
+}
+.call3 p{
+	font-size: 20px;
+	color: #fff;
+	margin-bottom: 16px;
+	opacity: 0.6;
+	line-height: 1.8;
+}
+.call3 p a{
+	color: #e83e8c;
+	text-decoration: none;
+}
+.call_head{
+	background: #0a0000;
+	padding: 20px 20px;
+}
+.call_head .call{
+	width: 33.33%;
+	text-align: center;
+	padding: 30px 25px;
+	background: #0a0000;
+
+}
+.call_head .call i{
+	font-size: 40px;
+	color: #fff;
+	line-height: 1.8;
+}
+
+.call_head .call h3{
+	color: #fff;
+	font-size: 20px;
+	font-weight: 600;
+	margin-top: 0px;
+	line-height: 1.8;
+
+}
+.call_head .call p{
+	font-size: 20px;
+	color: #fff;
+	margin-bottom: 16px;
+	opacity: 0.6;
+	line-height: 1.8;
+}
+.call_head .call p a{
+	color: #e83e8c;
+	text-decoration: none;
+}
+/*contact end*/
+/*arif contact area start*/

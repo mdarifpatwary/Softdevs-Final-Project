@@ -1,0 +1,359 @@
+/*owl carousel*/
+.carousel-indicators li {
+    box-sizing: content-box;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #04afe7;
+    background-clip: padding-box;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    transition: opacity .6s ease;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    border: 2px solid red;
+    box-shadow: 0 0 0 0 #fff;
+}
+.carousel-inner .carousel-item{
+	background: #000;
+}
+.carousel-inner .carousel-item img{
+	height: 80vh;
+}
+.carousel-inner .back{
+	opacity: .2;
+	width: 100%;
+}
+.banner_area .navmenu{
+	background: #000;
+}
+
+.navbar-light .navbar-nav .navbar-link {
+    color: rgb(255 255 255 / 50%);
+}
+.banner_area .navmenu ul{
+	display: flex;
+	list-style: none;
+	font-weight: 400;
+	
+}	
+.banner_area .navmenu ul li{
+	margin-right:30px;
+}
+
+.banner_area .home:hover{
+	color: #fff;
+	
+}
+.banner_area .home{
+	border-bottom: 2px solid #fff;
+}
+.banner_area .navmenu ul li:hover a{
+	color: #fff;
+	border-bottom: 2px solid #fff;
+
+}
+.banner_area .navmenu ul li a{
+	font-size: 19px;
+	color: #fff;
+	text-decoration: none;
+	transition: .5s;
+}
+.banner_area .nav_content{
+	text-align: center;
+	color: #fff;
+
+}
+.banner_area .navbar_area .logo {
+	color: #fff;
+}
+.banner_area .logo{
+	font-size: 35px;
+	float: left;
+	color: #fff;
+	padding: 0px 30px;
+	font-weight: 600;
+	margin-right: 70px;
+}
+.banner_area .navbar_area .navbar-nav .navbar-link{
+	color: #fff;
+}
+.banner_area .navbar_area .navbar-nav .navbar-link:hover{
+	color: #fff;
+	border-bottom: 2px solid #0abde3;
+}
+.banner_area .carousel-caption h3{
+	margin-top: 150px;
+	font-size: 2rem; 
+	font-weight: 500;
+	display: inline-block;
+}
+.banner_area .carousel-caption span{
+	font-size: 2rem; 
+	font-weight: 500;
+	display: inline-block;
+	color: #0abde3;
+}
+.banner_area .carousel-caption h1{
+	
+	font-size: 60px;
+	font-weight: 600;
+}
+.banner_area .carousel-caption h5{
+	font-size: 21px;
+	font-weight: 300;
+
+}
+.banner_area .nav-btn a{
+	display: inline-block;
+	padding: 5px 15px;
+	border-radius: 2.5rem;
+	border: .1rem solid #fff;
+	transition: 0.3s;
+	color: #fff;
+	margin-top: 40px;
+	margin: 25px 5px;
+	margin-bottom: 150px;
+}
+.banner_area .nav-btn a:hover{
+	color: #000!important;
+	background: #fff;
+	font-weight: bold;
+}
+.banner_area .caption h3{
+	margin-top: 150px;
+	font-size: 2rem; 
+	font-weight: 500;
+	display: inline-block;
+}
+.banner_area .caption span{
+	font-size: 2rem; 
+	font-weight: 500;
+	display: inline-block;
+	color: #0abde3;
+}
+.banner_area .caption h1{
+	
+	font-size: 60px;
+	font-weight: 600;
+}
+.banner_area .caption h5{
+	font-size: 21px;
+	font-weight: 300;
+
+}
+.banner_area .butt a{
+	display: inline-block;
+	padding: 5px 15px;
+	border-radius: 2.5rem;
+	border: .1rem solid #fff;
+	transition: 0.3s;
+	color: #fff;
+	margin-top: 40px;
+	margin: 25px 5px;
+	margin-bottom: 150px;
+}
+.banner_area .butt a:hover{
+	color: #000!important;
+	background: #fff;
+	font-weight: bold;
+}
+/*owl carousel*/
+
+
+
+
+/*myfolio area start*/
+/*about area start */
+.myabout_area{
+	text-align: center;
+	background: rgba(0,0,0,0.8);
+}
+.myabout_area .myabout_content h1{
+	font-size: 33px;
+	color: #4f5050;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	font-weight: 800;
+}
+.myabout_area .myabout_content h5{
+	color: #989b9f;
+	margin-bottom: 32px;
+}
+.myabout_area .myabout_content p{
+	color: #989b9f;
+	line-height: 2;
+}
+.myabout_area .myabout_content span{
+	font-size: 20px;
+	font-weight: 800;
+	color: #1f1d1d;
+}
+.father{
+	margin-top: 85px;
+	margin-bottom: 98px;
+}
+.father .son{
+	text-align: center;
+	padding: 30px 25px;
+	background: #211d1d;
+	border-right: 1px solid #000;
+}
+.father .son1{
+	text-align: center;
+	padding: 30px 25px;
+	background: #211d1d;
+}
+.father .son1 h2{
+	color: #7e8287;
+	font-size: 13px;
+	font-weight: 800;
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
+.father .son1 p{
+	font-size: 11px;
+	color: #7e8287;
+	margin-bottom: 16px;
+	opacity: 0.6;
+}
+.father .son h2{
+	color: #7e8287;
+	font-size: 13px;
+	font-weight: 800;
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
+.father .son p{
+	font-size: 11px;
+	color: #7e8287;
+	margin-bottom: 16px;
+	opacity: 0.6;
+}
+.myabout_area .father .pad{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.myabout_area .father .pad .son i{
+	font-size: 30px;
+	color: #fff;
+}
+.myabout_area .father .pad .son1 i{
+	font-size: 30px;
+	color: #fff;
+}
+/*about area end*/
+/*myfolio area start*/
+
+
+
+/*reen footer area start*/
+/*footer part start*/
+.reenfooter_area{
+	background: #212529;
+	padding-bottom: 40px;
+}
+.fcitems{
+	color: #808e9c;
+}
+.reenfooter_contact h5{
+	margin-top: 75px;
+	font-size: 15px;
+	color: #fff;
+	font-weight: bold;
+
+}
+
+.reenfooter_area .fcitems .flogo{
+	margin: 27px 0px;
+	color: #fff;
+	font-size: 30px;
+}
+.fcitems p{
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+.fcitems a{
+	color: #808e9c; 
+	font-size: 15px;
+}
+.reenfooter_contact .fcpic h5{
+	margin-top: 75px;
+	font-size: 15px;
+	color: #fff;
+
+}
+
+.reenfooter_contact .h5{
+	margin-top: 75px;
+	font-size: 20px;
+	color: #fff;
+	font-weight: bold;
+	margin-bottom: 45px;
+}
+.ml{
+	margin-left: -25px;
+	height: 85px;
+}
+.fmt{
+	margin-top: 6px;
+	height: 85px;
+}
+.img12{
+	height: 85px;
+}
+.reenfooter_contact .para p{
+	color: #a3b1bf;
+	font-size: 15px;
+	margin-bottom: 25px;
+}
+.reenfooter_contact .para h5{
+	margin-top: 75px;
+	font-size: 20px;
+	color: #fff;
+	font-weight: bold;
+	margin-bottom: 38px;
+}
+.reenfooter_contact .para a{
+	color:  #a3b1bf;
+	font-size: 15px;
+}
+.inputsub input{
+	height: 40px;
+	background: #4e5c6c;
+	border:none;
+	padding: 10px;
+	margin-top: 25px;
+}
+.inputsub{
+	position: relative;
+}
+.inputsub a{
+	position: absolute;
+	top: 31px;
+	right: 10px;
+	background: #00bc9c;
+	padding: 2px 5px;
+	color: #fff!important;
+	border-radius: 5px;
+}
+.inputsub a:hover{
+	color: #fff;
+	border-radius: 5px;
+	background: #000;
+	transition: .5s;
+
+}
+.reenfooter_area .myfoot{
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+/*footer part end*/
+/*reen footer area start*/
